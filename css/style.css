@@ -1,0 +1,31 @@
+body{
+    background-color: #24353f;
+}
+.login-form{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h1 {
+    color: #17a2b8;
+}
+.form-control {
+    background-color:#24353f;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+}
+input{
+    background-color: transparent !important;
+    color: #fff !important;
+}
+.form-control::placeholder{
+    color: #fff;
+}
+
+.btn {
+    color: #17a2b8;
+    background-color: transparent;
+    border-color: #17a2b8;
+}
+.btn:hover{
+    background-color: #17a2b8;
+    color: #fff;
+}
